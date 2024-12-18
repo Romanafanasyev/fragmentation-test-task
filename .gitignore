@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+.venv/*
+venv/*
+
+# PyCharm
+.idea/
+*.iml
+out/
+.idea/*
+
+# OS-specific
+.DS_Store
+
+# Other
+*.log
